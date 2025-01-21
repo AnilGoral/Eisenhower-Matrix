@@ -1,4 +1,11 @@
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2546243a-4389-4a5f-8301-a3dadb1c0d0c" alt="App Screenshot" width="445"/>
+</div>
+
+
 ```markdown
+
 # Eisenhower Matrix Task Manager
 
 A desktop application built with PyQt5 that implements the Eisenhower Matrix method for task management and prioritization.
