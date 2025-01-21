@@ -13,6 +13,7 @@ A desktop application built with PyQt5 that implements the Eisenhower Matrix met
 - Dark mode design
 - Color and Quadrant Naming Change
 - Task Moving in between Quadrants and Up or Down in the same Quadrant
+- Database exporting and importing
 
 ## Installation
 
