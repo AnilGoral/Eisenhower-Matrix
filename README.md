@@ -8,10 +8,10 @@
 
 # Eisenhower Matrix Task Manager
 
-A desktop application built with PyQt5 that implements the Eisenhower Matrix method for task management and prioritization.
+A MacOS desktop application built with PyQt5 that implements the Eisenhower Matrix method for task management and prioritization.
 
 ## Features
-
+- Menu Bar app interface (Show/Hide, Settings, Statistics menus)
 - Four quadrants based on task importance and urgency
 - Double-click to add new tasks
 - Right-click menu for task management (edit and delete)
